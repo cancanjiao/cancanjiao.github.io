@@ -204,6 +204,10 @@ index.html:
       <categories>
         <category>计算机网络</category>
       </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>计算机网络</tag>
+      </tags>
   </entry>
   <entry>
     <title>第二章 物理层</title>
@@ -213,6 +217,10 @@ index.html:
       <categories>
         <category>计算机网络</category>
       </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>计算机网络</tag>
+      </tags>
   </entry>
   <entry>
     <title>第三章 数据链路层</title>
@@ -222,6 +230,10 @@ index.html:
       <categories>
         <category>计算机网络</category>
       </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>计算机网络</tag>
+      </tags>
   </entry>
   <entry>
     <title>第四章 网络层</title>
@@ -231,6 +243,10 @@ index.html:
       <categories>
         <category>计算机网络</category>
       </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>计算机网络</tag>
+      </tags>
   </entry>
   <entry>
     <title>第六章 应用层</title>
@@ -240,6 +256,10 @@ index.html:
       <categories>
         <category>计算机网络</category>
       </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>计算机网络</tag>
+      </tags>
   </entry>
   <entry>
     <title>第五章 运输层</title>
@@ -249,5 +269,64 @@ index.html:
       <categories>
         <category>计算机网络</category>
       </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>计算机网络</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第二章 Spring Boot开发入门</title>
+    <url>/2025/06/26/%E7%AC%AC%E4%BA%8C%E7%AB%A0-Spring-Boot%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<h1 id="第二章-Spring-Boot开发入门"><a href="#第二章-Spring-Boot开发入门" class="headerlink" title="第二章 Spring Boot开发入门"></a>第二章 Spring Boot开发入门</h1><p><img src="/images/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20Spring%20Boot%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8.png" alt="第二章 Spring Boot开发入门.png"></p>
+<h2 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h2><p><a href="https://docs.spring.io/spring-boot/docs/">查看官方starter</a><br><a href="https://mvnrepository.com/">检索第三方Starter</a></p>
+]]></content>
+      <categories>
+        <category>spring boot</category>
+      </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>spring boot</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第三章 Thymeleaf模板引擎</title>
+    <url>/2025/06/26/%E7%AC%AC%E4%B8%89%E7%AB%A0-Thymeleaf%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E/</url>
+    <content><![CDATA[<h1 id="第三章-Thymeleaf模板引擎"><a href="#第三章-Thymeleaf模板引擎" class="headerlink" title="第三章 Thymeleaf模板引擎"></a>第三章 Thymeleaf模板引擎</h1><p><img src="/images/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Thymeleaf%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E.png" alt="第三章 Thymeleaf模板引擎.png"></p>
+<h2 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h2><p><a href="https://developer.aliyun.com/article/769977">Thymeleaf一篇就够了|阿里云社区</a><br><a href="https://www.runoob.com/bootstrap/bootstrap-tutorial.html">Bootstrap 教程|菜鸟教程</a></p>
+]]></content>
+      <categories>
+        <category>spring boot</category>
+      </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>spring boot</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第四章 Spring Boot核心编程与开发技术</title>
+    <url>/2025/06/26/%E7%AC%AC%E5%9B%9B%E7%AB%A0-Spring-Boot%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B%E4%B8%8E%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/</url>
+    <content><![CDATA[<h1 id="第四章-Spring-Boot核心编程与开发技术"><a href="#第四章-Spring-Boot核心编程与开发技术" class="headerlink" title="第四章 Spring Boot核心编程与开发技术"></a>第四章 Spring Boot核心编程与开发技术</h1><p><img src="/images/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Spring%20Boot%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B%E4%B8%8E%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF.png" alt="第四章 Spring Boot核心编程与开发技术.png"></p>
+<h2 id="后续没总结，但是考完试了，所以……"><a href="#后续没总结，但是考完试了，所以……" class="headerlink" title="后续没总结，但是考完试了，所以……"></a>后续没总结，但是考完试了，所以……</h2>]]></content>
+      <categories>
+        <category>spring boot</category>
+      </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>spring boot</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一章 HTML 5基础和Spring Boot环境</title>
+    <url>/2025/06/26/%E7%AC%AC%E4%B8%80%E7%AB%A0%20HTML%205%E5%9F%BA%E7%A1%80%E5%92%8CSpring%20Boot%E7%8E%AF%E5%A2%83/</url>
+    <content><![CDATA[<h1 id="第一章-HTML-5基础和Spring-Boot环境"><a href="#第一章-HTML-5基础和Spring-Boot环境" class="headerlink" title="第一章 HTML 5基础和Spring Boot环境"></a>第一章 HTML 5基础和Spring Boot环境</h1><p><img src="/images/%E7%AC%AC%E4%B8%80%E7%AB%A0%20HTML%205%E5%9F%BA%E7%A1%80%E5%92%8CSpring%20Boot%E7%8E%AF%E5%A2%83.png" alt="第一章 HTML 5基础和Spring Boot环境.png"></p>
+<h2 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h2><p><a href="https://www.runoob.com/html/html5-intro.html">HTML5教程，菜鸟教程</a><br><a href="https://www.runoob.com/java/java-environment-setup.html">JAVA环境配置，菜鸟教程</a><br><a href="https://www.runoob.com/maven/maven-setup.html">MAVEN环境配置，菜鸟教程</a></p>
+]]></content>
+      <categories>
+        <category>spring boot</category>
+      </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>spring boot</tag>
+      </tags>
   </entry>
 </search>
