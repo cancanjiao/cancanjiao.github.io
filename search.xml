@@ -342,4 +342,50 @@ index.html:
         <tag>计算机组成原理</tag>
       </tags>
   </entry>
+  <entry>
+    <title>AAndroid Studio 虚拟设备AVD启动失败问题解决方案</title>
+    <url>/2025/06/30/Android-studio-%E8%99%9A%E6%8B%9F%E8%AE%BE%E5%A4%87AVD%E5%90%AF%E5%8A%A8%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<h1 id="Android-Studio在启动虚拟设备时报错问题"><a href="#Android-Studio在启动虚拟设备时报错问题" class="headerlink" title="Android Studio在启动虚拟设备时报错问题"></a>Android Studio在启动虚拟设备时报错问题</h1><h2 id="报错现象"><a href="#报错现象" class="headerlink" title="报错现象"></a>报错现象</h2><p>Error<br>Unable to launch Small Phone -The emulatorprocess for AVD Small Phone has terminated<br><img src= "/images/img.png" data-lazy-src="/images/Android%E6%8A%A5%E9%94%991.png" alt="Android报错1.png"><br>或</p>
+<p>Small Phone<br>The emulator process for AVD Small Phone hasterminated.<br><img src= "/images/img.png" data-lazy-src="/images/Android%E6%8A%A5%E9%94%992.png" alt="Android报错2.png"></p>
+<hr>
+<h2 id="问题原因"><a href="#问题原因" class="headerlink" title="问题原因"></a>问题原因</h2><p><strong>中文路径冲突问题</strong>：</p>
+<ul>
+<li>AVD默认安装路径为：<code>C:\Users\&lt;用户名&gt;\.android</code></li>
+<li>当Windows用户名包含<strong>中文</strong>时，会导致路径出现中文字符</li>
+<li>Android模拟器无法正确处理中文路径，从而引发启动失败</li>
+</ul>
+<hr>
+<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>迁移.android目录</p>
+<h3 id="具体步骤："><a href="#具体步骤：" class="headerlink" title="具体步骤："></a>具体步骤：</h3><h4 id="1-创建新目录"><a href="#1-创建新目录" class="headerlink" title="1.创建新目录"></a>1.创建新目录</h4><p>在目标盘（如 F 盘）新建文件夹：F:\Android_AVD</p>
+<h4 id="2-设置系统环境变量"><a href="#2-设置系统环境变量" class="headerlink" title="2.设置系统环境变量"></a>2.设置系统环境变量</h4><ul>
+<li>（1）打开 控制面板 → 系统和安全 → 系统 → 高级系统设置 → 环境变量</li>
+<li>（2）新建系统变量<ul>
+<li>变量名：ANDROID_SDK_HOME</li>
+<li>变量值：F:\Android_AVD</li>
+</ul>
+</li>
+<li>（3）保存并重启电脑</li>
+</ul>
+<h4 id="3-移动现有文件"><a href="#3-移动现有文件" class="headerlink" title="3.移动现有文件"></a>3.移动现有文件</h4><p>将 C:\Users&lt;用户名&gt;.android 整个文件夹剪切到 F:\Android_AVD</p>
+<h4 id="4-修改-AVD-配置文件"><a href="#4-修改-AVD-配置文件" class="headerlink" title="4.修改 AVD 配置文件"></a>4.修改 AVD 配置文件</h4><ul>
+<li>（1）打开 F:\Android_AVD.android\avd&lt;模拟器名称&gt;.ini</li>
+<li>（2）修改 path 指向新位置（如 path&#x3D;F:\Android_AVD.android\avd&lt;模拟器名称&gt;.avd）</li>
+<li>（3）保存文件</li>
+</ul>
+<hr>
+<h2 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h2><ul>
+<li>解决中文路径导致的AVD启动失败问题  </li>
+<li>释放C盘空间（每个AVD通常占用1-5GB空间）</li>
+</ul>
+<hr>
+<h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><p>运行成功<br><img src= "/images/img.png" data-lazy-src="/images/AVD%E5%90%AF%E5%8A%A8%E6%88%90%E5%8A%9F.png" alt="AVD启动成功.png"></p>
+]]></content>
+      <categories>
+        <category>debug</category>
+      </categories>
+      <tags>
+        <tag>debug</tag>
+        <tag>android studio</tag>
+      </tags>
+  </entry>
 </search>
