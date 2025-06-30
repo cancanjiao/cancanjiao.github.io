@@ -343,7 +343,7 @@ index.html:
       </tags>
   </entry>
   <entry>
-    <title>AAndroid Studio 虚拟设备AVD启动失败问题解决方案</title>
+    <title>Android Studio 虚拟设备AVD启动失败问题解决方案</title>
     <url>/2025/06/30/Android-studio-%E8%99%9A%E6%8B%9F%E8%AE%BE%E5%A4%87AVD%E5%90%AF%E5%8A%A8%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<h1 id="Android-Studio在启动虚拟设备时报错问题"><a href="#Android-Studio在启动虚拟设备时报错问题" class="headerlink" title="Android Studio在启动虚拟设备时报错问题"></a>Android Studio在启动虚拟设备时报错问题</h1><h2 id="报错现象"><a href="#报错现象" class="headerlink" title="报错现象"></a>报错现象</h2><p>Error<br>Unable to launch Small Phone -The emulatorprocess for AVD Small Phone has terminated<br><img src= "/images/img.png" data-lazy-src="/images/Android%E6%8A%A5%E9%94%991.png" alt="Android报错1.png"><br>或</p>
 <p>Small Phone<br>The emulator process for AVD Small Phone hasterminated.<br><img src= "/images/img.png" data-lazy-src="/images/Android%E6%8A%A5%E9%94%992.png" alt="Android报错2.png"></p>
