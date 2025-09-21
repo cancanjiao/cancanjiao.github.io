@@ -430,17 +430,34 @@ index.html:
   <entry>
     <title>数据结构三</title>
     <url>/2025/09/18/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%89/</url>
-    <content><![CDATA[<h1 id="第三章-栈和队列，数组"><a href="#第三章-栈和队列，数组" class="headerlink" title="第三章 栈和队列，数组"></a>第三章 栈和队列，数组</h1><h2 id="栈"><a href="#栈" class="headerlink" title="栈"></a>栈</h2><p><img src= "/images/img.png" data-lazy-src="/../images/datastruct/data3/data3.1.png" alt="data3.1.png"></p>
-<h3 id="顺序栈的实现"><a href="#顺序栈的实现" class="headerlink" title="顺序栈的实现"></a>顺序栈的实现</h3><p><img src= "/images/img.png" data-lazy-src="/../images/datastruct/data3/data3.2.png" alt="data3.2.png"></p>
-<h3 id="链栈的实现"><a href="#链栈的实现" class="headerlink" title="链栈的实现"></a>链栈的实现</h3><p><img src= "/images/img.png" data-lazy-src="/../images/datastruct/data3/data3.3.png" alt="data3.3.png"></p>
-<h2 id="队列"><a href="#队列" class="headerlink" title="队列"></a>队列</h2><p><img src= "/images/img.png" data-lazy-src="/../images/datastruct/data3/data3.4.png" alt="data3.4.png"></p>
-<h3 id="队列的顺序实现"><a href="#队列的顺序实现" class="headerlink" title="队列的顺序实现"></a>队列的顺序实现</h3><p><img src= "/images/img.png" data-lazy-src="/../images/datastruct/data3/data3.5.png" alt="data3.5.png"></p>
-<h3 id="队列的链式实现"><a href="#队列的链式实现" class="headerlink" title="队列的链式实现"></a>队列的链式实现</h3><p><img src= "/images/img.png" data-lazy-src="/../images/datastruct/data3/data3.6.png" alt="data3.6.png"></p>
-<h3 id="队列的变种"><a href="#队列的变种" class="headerlink" title="队列的变种"></a>队列的变种</h3><p><img src= "/images/img.png" data-lazy-src="/../images/datastruct/data3/data3.7.png" alt="data3.7.png"></p>
+    <content><![CDATA[<h1 id="第三章-栈和队列，数组"><a href="#第三章-栈和队列，数组" class="headerlink" title="第三章 栈和队列，数组"></a>第三章 栈和队列，数组</h1><h2 id="栈"><a href="#栈" class="headerlink" title="栈"></a>栈</h2><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.1.png" alt="data3.1.png"></p>
+<h3 id="顺序栈的实现"><a href="#顺序栈的实现" class="headerlink" title="顺序栈的实现"></a>顺序栈的实现</h3><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.2.png" alt="data3.2.png"></p>
+<h3 id="链栈的实现"><a href="#链栈的实现" class="headerlink" title="链栈的实现"></a>链栈的实现</h3><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.3.png" alt="data3.3.png"></p>
+<h2 id="队列"><a href="#队列" class="headerlink" title="队列"></a>队列</h2><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.4.png" alt="data3.4.png"></p>
+<h3 id="队列的顺序实现"><a href="#队列的顺序实现" class="headerlink" title="队列的顺序实现"></a>队列的顺序实现</h3><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.5.png" alt="data3.5.png"></p>
+<h3 id="队列的链式实现"><a href="#队列的链式实现" class="headerlink" title="队列的链式实现"></a>队列的链式实现</h3><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.6.png" alt="data3.6.png"></p>
+<h3 id="队列的变种"><a href="#队列的变种" class="headerlink" title="队列的变种"></a>队列的变种</h3><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.7.png" alt="data3.7.png"></p>
 <h2 id="栈的应用"><a href="#栈的应用" class="headerlink" title="栈的应用"></a>栈的应用</h2><h3 id="括号匹配问题"><a href="#括号匹配问题" class="headerlink" title="括号匹配问题"></a>括号匹配问题</h3><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.8.png" alt="data3.8.png"></p>
 <h3 id="表达式求值（中缀，后缀）"><a href="#表达式求值（中缀，后缀）" class="headerlink" title="表达式求值（中缀，后缀）"></a>表达式求值（中缀，后缀）</h3><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.9.png" alt="data3.9.png"><br><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.10.png" alt="data3.10.png"></p>
 <h3 id="递归"><a href="#递归" class="headerlink" title="递归"></a>递归</h3><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.11.png" alt="data3.11.png"></p>
 <h2 id="队列的应用"><a href="#队列的应用" class="headerlink" title="队列的应用"></a>队列的应用</h2><h3 id="树的层次遍历"><a href="#树的层次遍历" class="headerlink" title="树的层次遍历"></a>树的层次遍历</h3><h3 id="图的广度优先遍历"><a href="#图的广度优先遍历" class="headerlink" title="图的广度优先遍历"></a>图的广度优先遍历</h3><h3 id="队列在操作系统中的应用"><a href="#队列在操作系统中的应用" class="headerlink" title="队列在操作系统中的应用"></a>队列在操作系统中的应用</h3><h4 id="先来先服务"><a href="#先来先服务" class="headerlink" title="先来先服务"></a>先来先服务</h4><h4 id="打印数据缓冲队列"><a href="#打印数据缓冲队列" class="headerlink" title="打印数据缓冲队列"></a>打印数据缓冲队列</h4><h2 id="特殊矩阵压缩存储"><a href="#特殊矩阵压缩存储" class="headerlink" title="特殊矩阵压缩存储"></a>特殊矩阵压缩存储</h2><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.12.png" alt="data3.12.png"><br><img src= "/images/img.png" data-lazy-src="/images/datastruct/data3/data3.13.png" alt="data3.13.png"></p>
+]]></content>
+      <categories>
+        <category>数据结构</category>
+      </categories>
+      <tags>
+        <tag>思维导图</tag>
+        <tag>数据结构</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数据结构四</title>
+    <url>/2025/09/21/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9B%9B/</url>
+    <content><![CDATA[<h1 id="第四章-串"><a href="#第四章-串" class="headerlink" title="第四章 串"></a>第四章 串</h1><h2 id="串的定义与基本操作"><a href="#串的定义与基本操作" class="headerlink" title="串的定义与基本操作"></a>串的定义与基本操作</h2><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data4/data4.1.png" alt="data4.1.png"></p>
+<h2 id="串的存储结构"><a href="#串的存储结构" class="headerlink" title="串的存储结构"></a>串的存储结构</h2><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data4/data4.2.png" alt="data4.2.png"></p>
+<h2 id="朴素的模式匹配"><a href="#朴素的模式匹配" class="headerlink" title="朴素的模式匹配"></a>朴素的模式匹配</h2><p><img src= "/images/img.png" data-lazy-src="/images/datastruct/data4/data4.3.png" alt="data4.3.png"></p>
+<h2 id="KMP算法"><a href="#KMP算法" class="headerlink" title="KMP算法"></a>KMP算法</h2><h3 id="手算next数组"><a href="#手算next数组" class="headerlink" title="手算next数组"></a>手算next数组</h3><p>1.使用前缀后缀<br>2.使用右移次数来计算</p>
+<h3 id="next数组的优化"><a href="#next数组的优化" class="headerlink" title="next数组的优化"></a>next数组的优化</h3><p>如果next数组指向的字母与当前字母相同，则数组中存储的值也相等</p>
 ]]></content>
       <categories>
         <category>数据结构</category>
